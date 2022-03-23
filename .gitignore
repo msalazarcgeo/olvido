@@ -1,1 +1,4 @@
 **/*.ipynb
+docs/.ipynb_checkpoints/_config-checkpoint.yml
+docs/.ipynb_checkpoints/index-checkpoint.md
+output/*.pdf
