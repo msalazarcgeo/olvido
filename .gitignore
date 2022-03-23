@@ -2,3 +2,5 @@
 docs/.ipynb_checkpoints/_config-checkpoint.yml
 docs/.ipynb_checkpoints/index-checkpoint.md
 output/*.pdf
+.ipynb_checkpoints/.gitignore-checkpoint
+.ipynb_checkpoints/Readme-checkpoint.me
